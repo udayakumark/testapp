@@ -1,0 +1,19 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/oe-cloud",
+    "database": "oe-cloud123",
+    "name": "db",
+    "connector": "oe-connector-mongodb",
+    "connectionTimeout": 50000
+  },
+  "gridfs": {
+    "name": "gridfs",
+    "connector": "loopback-component-storage-mongo",
+    "host": "localhost",
+    "port": 27017,
+    "database": "cassi-bank-db-storage"
+  }
+
+}
