@@ -7,13 +7,6 @@
     "name": "db",
     "connector": "oe-connector-mongodb",
     "connectionTimeout": 50000
-  },
-  "gridfs": {
-    "name": "gridfs",
-    "connector": "loopback-component-storage-mongo",
-    "host": "localhost",
-    "port": 27017,
-    "database": "cassi-bank-db-storage"
   }
 
 }

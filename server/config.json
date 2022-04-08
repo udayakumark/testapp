@@ -14,14 +14,6 @@
     "json": {
       "strict": false,
       "limit": "2048kb"
-    },
-    "urlencoded": {
-      "extended": true,
-      "limit": "2048kb"
-    },
-    "cors": false,
-    "errorHandler": {
-      "debug": false
     }
   },
   "legacyExplorer": false
