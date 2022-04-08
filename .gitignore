@@ -1,6 +1,4 @@
-server/datasources.json
-server/config.json
-server/server.js
+server
 
 /vendor/
 node_modules/

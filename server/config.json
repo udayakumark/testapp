@@ -5,12 +5,6 @@
   "remoting": {
     "context": false,
     "appBaseURL": "http://localhost:3000",
-     "rest": {
-      "apiExplorer": {
-        "url": "http://localhost:3000/explorer/",
-        "httpUrl": "http://localhost:3000"
-      }
-    },
     "json": {
       "strict": false,
       "limit": "2048kb"
