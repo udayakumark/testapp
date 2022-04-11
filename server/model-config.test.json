@@ -22,6 +22,10 @@
         "public" : true,
         "dataSource": "db"
      },
+     "StatementType1" :{
+        "public" : true,
+        "dataSource": "db"
+     },
      "RatioMaster" :{
       "public" : true,
       "dataSource": "db"
