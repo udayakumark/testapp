@@ -17,7 +17,7 @@
     "auth": {},
     "parse": {},
     "routes:before": {},
-    "routes:after": {},
+    "routes:after": {},    
     "files": {
         "loopback#static": {
             "params": "$!../client"

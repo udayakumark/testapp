@@ -1,3 +1,4 @@
 server/server.js
 server/config.json
 server/model-config.json
+server/middleware.json
